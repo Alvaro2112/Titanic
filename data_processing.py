@@ -11,7 +11,6 @@ def process_train(file):
     df['Sex'].replace({'male': 1, 'female': 0}, inplace=True)
     df['Embarked'].fillna('C', inplace=True)
 
-
     ### CREATE ONE HOT ENCODINGS
 
     for var in categorical:

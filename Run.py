@@ -29,7 +29,6 @@ if __name__ == '__main__':
 
     df = process_train('train.csv')
 
-
     ### GENERATE MISSING DATA WITH LINEAR REGRESSION
 
     dfk = copy.deepcopy(df)
@@ -121,4 +120,3 @@ if __name__ == '__main__':
             {'PassengerId': df.at[i, "PassengerId"], 'Survived': int(net(next).ge(0.5).item())})
 
     final.to_csv('final.csv', index=False)
-
