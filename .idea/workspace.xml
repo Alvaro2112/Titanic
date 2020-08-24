@@ -127,9 +127,9 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.Network" />
       <item itemvalue="Python.Run" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
@@ -243,22 +243,22 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="632" y="380" key="Github.ShareDialog/0.0.1504.963@0.0.1504.963" timestamp="1598292660529" />
-    <state width="1483" height="326" key="GridCell.Tab.0.bottom" timestamp="1598293693751">
+    <state width="1483" height="326" key="GridCell.Tab.0.bottom" timestamp="1598293970765">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1483" height="326" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1598293693751" />
-    <state width="1483" height="326" key="GridCell.Tab.0.center" timestamp="1598293693750">
+    <state width="1483" height="326" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1598293970765" />
+    <state width="1483" height="326" key="GridCell.Tab.0.center" timestamp="1598293970765">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1483" height="326" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1598293693750" />
-    <state width="1483" height="326" key="GridCell.Tab.0.left" timestamp="1598293693750">
+    <state width="1483" height="326" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1598293970765" />
+    <state width="1483" height="326" key="GridCell.Tab.0.left" timestamp="1598293970765">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1483" height="326" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1598293693750" />
-    <state width="1483" height="326" key="GridCell.Tab.0.right" timestamp="1598293693750">
+    <state width="1483" height="326" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1598293970765" />
+    <state width="1483" height="326" key="GridCell.Tab.0.right" timestamp="1598293970765">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1483" height="326" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1598293693750" />
+    <state width="1483" height="326" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1598293970765" />
     <state width="1483" height="317" key="GridCell.Tab.1.bottom" timestamp="1598192770766">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
